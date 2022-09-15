@@ -1,0 +1,2 @@
+Get-ChildItem -Recurse -Path C:\
+Get-ChildItem -Recurse -Path HLKM
